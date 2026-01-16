@@ -30,13 +30,17 @@ Strong background in **Linux systems**, **mail servers**, and **automation** for
 ## 📌 Featured Projects
 
 - **Carbonio-CE-Ansible-Installer**  
-  _[Project description will be added]_
+  Ansible playbooks for automated installation and upgrade of Carbonio CE.  
+  Designed to simplify deployment with consistent, repeatable, and less error-prone setup.
 
 - **Initial-Setup-Carbonio**  
-  _[Project description will be added]_
+  Initial setup and pre-installation check scripts for installing Zextras Carbonio  
+  on RHEL and Ubuntu servers.
 
 - **Local-Wallet**  
-  _[Project description will be added]_
+  Self-hosted personal finance tracker built with React, Node.js, and MySQL,  
+  focused on local and Docker-based deployments.
+
 
 ---
 
