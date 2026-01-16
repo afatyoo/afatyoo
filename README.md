@@ -29,11 +29,11 @@ Strong background in Linux systems, mail servers, and automation for production 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/afatyoo/https://github.com/afatyoo/Carbonio-CE-Ansible-Installer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afatyoo&repo=https://github.com/afatyoo/Carbonio-CE-Ansible-Installer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/afatyoo/https://github.com/afatyoo/Intial-Setup-Carbonio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afatyoo&repo=https://github.com/afatyoo/Intial-Setup-Carbonio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/afatyoo/https://github.com/afatyoo/Carbonio-CE-Ansible-Installer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afatyoo&repo=/Carbonio-CE-Ansible-Installer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/afatyoo/https://github.com/afatyoo/Intial-Setup-Carbonio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afatyoo&repo=Intial-Setup-Carbonio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/afatyoo/https://github.com/afatyoo/Local-Wallet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afatyoo&repo=https://github.com/afatyoo/Local-Wallet&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/afatyoo/https://github.com/afatyoo/Local-Wallet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=afatyoo&repo=Local-Wallet&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 
 ---
 
