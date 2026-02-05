@@ -47,13 +47,6 @@ Strong background in **Linux systems**, **mail servers**, and **automation** for
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afatyoo&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afatyoo&layout=compact)
-
----
-
 ## 📫 Contact
 
 - 🌐 Website: https://afatyo.web.id  
