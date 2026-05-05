@@ -41,9 +41,12 @@ Strong background in **Linux systems**, **mail servers**, and **automation** for
   Self-hosted personal finance tracker built with React, Node.js, and MySQL,  
   focused on local and Docker-based deployments.
 
-- **MaM-Portal**
+- **MaM-Portal**  
   Multi Access Mail (MaM) Portal for Zimbra/Carbonio
 
+- **wp-blog-abilities**  
+  WordPress plugin that registers blog post abilities (create, update, list, delete) for AI agents via MCP Adapter.  
+  Enables Claude to manage WordPress posts directly through Claude Code.
 
 ---
 
