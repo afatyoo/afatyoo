@@ -47,6 +47,9 @@ Strong background in **Linux systems**, **mail servers**, and **automation** for
 - **wp-blog-abilities**  
   WordPress plugin that registers blog post abilities (create, update, list, delete) for AI agents via MCP Adapter.  
   Enables Claude to manage WordPress posts directly through Claude Code.
+  
+- **carbonio-ai-assistant**  
+  AI Assistant microfrontend and gateway for Carbonio Webmail, featuring multi-provider LLM integration, persistent conversation history, Carbonio      SOAP email tools, SSE streaming, and secure account-scoped access.
 
 ---
 
