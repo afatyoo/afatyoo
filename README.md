@@ -75,7 +75,7 @@ AI assistant integration for Carbonio Webmail with a standalone microfrontend an
 
 Supports multi-provider LLMs, persistent conversation history, mailbox tools, account-scoped access, and streamed responses.
 
-**[View Repository →](#)**
+**[View Repository →](https://github.com/afatyoo/carbonio-ai-assitant)**
 
 ---
 
@@ -85,7 +85,7 @@ Automated installation and upgrade workflows for Carbonio CE using Ansible.
 
 Designed to make deployments more **consistent, repeatable, and less error-prone**.
 
-**[View Repository →](#)**
+**[View Repository →](https://github.com/afatyoo/Carbonio-CE-Ansible-Installer)**
 
 ---
 
@@ -93,7 +93,7 @@ Designed to make deployments more **consistent, repeatable, and less error-prone
 
 Pre-installation validation and system preparation scripts for Carbonio deployments on Ubuntu and RHEL-based systems.
 
-**[View Repository →](#)**
+**[View Repository →](https://github.com/afatyoo/Initial-Setup-Carbonio)**
 
 ---
 
@@ -101,17 +101,17 @@ Pre-installation validation and system preparation scripts for Carbonio deployme
 
 Multi Access Mail portal designed for Zimbra and Carbonio environments.
 
-**[View Repository →](#)**
+**[View Repository →](https://github.com/afatyoo/MaM-Portal)**
 
 ---
 
 ### 💰 Local Wallet
 
-Self-hosted personal finance application designed for local and Docker deployments.
+Self-hosted, privacy-first personal finance application for on-premise deployments. Now a commercially licensed product (Business Source License) — source repository is private.
 
 `React` `Node.js` `MySQL` `Docker`
 
-**[View Repository →](#)**
+**Private repository — commercial license**
 
 ---
 
@@ -119,7 +119,7 @@ Self-hosted personal finance application designed for local and Docker deploymen
 
 WordPress integration that exposes blog management capabilities to AI agents through an MCP Adapter.
 
-**[View Repository →](#)**
+**[View Repository →](https://github.com/afatyoo/postnova-for-mcp)**
 
 ---
 
