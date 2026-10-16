@@ -79,6 +79,18 @@ Supports multi-provider LLMs, persistent conversation history, mailbox tools, ac
 
 ---
 
+### 📱 carbonio-ce-zpush
+
+ActiveSync (Exchange protocol) connector for Carbonio CE, rewritten from the original PHP z-push into a standalone Rust server with no PHP runtime dependency.
+
+`Rust` `WBXML` `SOAP` `ActiveSync`
+
+Full MS-ASCMD command set (Sync, FolderSync, Ping, ItemOperations, Search, MoveItems, and more) with real delta sync, cross-checked against the original PHP implementation, and verified end-to-end against a live Carbonio instance and real ActiveSync clients.
+
+**[View Repository →](https://github.com/afatyoo/carbonio-ce-zpush)**
+
+---
+
 ### ⚙️ Carbonio CE Ansible Installer
 
 Automated installation and upgrade workflows for Carbonio CE using Ansible.
