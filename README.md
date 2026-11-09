@@ -127,7 +127,7 @@ Self-hosted, privacy-first personal finance application for on-premise deploymen
 
 ---
 
-### 🔌 wp-blog-abilities
+### 🔌 Postnova For MCP
 
 WordPress integration that exposes blog management capabilities to AI agents through an MCP Adapter.
 
